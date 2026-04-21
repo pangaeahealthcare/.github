@@ -187,7 +187,7 @@ flowchart LR
 
 - Records that don't follow the patient
 - Eligibility checked and re‑checked at every door
-- Prior authorization queues measured in **weeks**[^pa]
+- Prior authorization queues measured in **weeks**<sup><a href="#fn-pa">[12]</a></sup>
 - Care delayed because a *fax* didn't arrive
 
 </td>
@@ -197,7 +197,7 @@ flowchart LR
 
 - Claims denied for reasons no human can articulate
 - 30‑day appeal cycles for 30‑second decisions
-- **Tens of billions** written off annually as *uncollectable*[^bad-debt]
+- **Tens of billions** written off annually as *uncollectable*<sup><a href="#fn-bad-debt">[13]</a></sup>
 - Patients billed twice, providers paid once
 
 </td>
@@ -321,32 +321,18 @@ If you've spent a career being the person who actually had to make healthcare in
 
 ## Sources
 
-<sub>
-
-<a id="fn-cms-nhe"></a>**[1]** CMS, *National Health Expenditure Accounts — Historical (NHE 2023)*: total U.S. health spending of **$4.9 trillion** in 2023. <https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical>
-
-<a id="fn-cms-share"></a>**[2]** CMS, *NHE Highlights 2023*: health spending accounted for **17.6 % of U.S. GDP**. <https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet>
-
-<a id="fn-ocr-portal"></a>**[3]** U.S. Department of Health & Human Services, Office for Civil Rights, *Breach Portal* (cumulative breaches reported under HITECH since 2009; cumulative individuals affected exceeds **725 million**). <https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf>
-
-<a id="fn-admin"></a>**[4]** Himmelstein D.U., Campbell T., Woolhandler S., *Health Care Administrative Costs in the United States and Canada, 2017*, **Annals of Internal Medicine** 172 (2): 134–142 (2020) — U.S. administrative costs estimated at **~25–34 %** of total health spending. <https://www.acpjournals.org/doi/10.7326/M19-2818>
-
-<a id="fn-ibm-2024"></a>**[5]** IBM Security & Ponemon Institute, *Cost of a Data Breach Report 2024*: average healthcare breach cost **USD 9.77 M**, the highest of any sector for the **14th consecutive year**. <https://www.ibm.com/reports/data-breach>
-
-<a id="fn-ibm-perrec"></a>**[6]** IBM, *Cost of a Data Breach Report 2024*: per‑record cost in healthcare materially above the cross‑industry mean of ~$165/record. <https://www.ibm.com/reports/data-breach>
-
-<a id="fn-ibm-mttc"></a>**[7]** IBM, *Cost of a Data Breach Report 2024*: mean time to identify + contain a healthcare breach = **277 days**. <https://www.ibm.com/reports/data-breach>
-
-<a id="fn-ch-190m"></a>**[8]** UnitedHealth Group / Change Healthcare, statement on the February 2024 cyberattack: estimated **~190 million individuals** affected (updated 2025‑01‑24). <https://www.unitedhealthgroup.com/newsroom/2024/2024-02-22-uhg-statement-on-change-healthcare-cyberresponse.html>
-
-<a id="fn-uhg-cost"></a>**[9]** UnitedHealth Group, *Q3 2024 earnings disclosure*: cumulative direct response costs from the Change Healthcare cyberattack reported at **~$2.87 B** (response and business‑disruption costs combined). <https://www.unitedhealthgroup.com/newsroom/posts/2024-10-15-uhg-reports-3q-results.html>
-
-<a id="fn-ocr-2023"></a>**[10]** HHS OCR Breach Portal, calendar year 2023: **725+** reported breaches affecting 500 or more individuals (≈ 2 per day). <https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf>
-
-<a id="fn-cms-shares"></a>**[11]** CMS, *NHE 2023 — distribution of national health spending by type of service*: hospital + professional services ≈ **51 %**, prescription drugs and durable medical equipment ≈ **16 %**, other personal health care ≈ **8 %**, government administration + net cost of insurance + program admin ≈ **~25 %**. Pie‑chart values rounded for visual clarity. <https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet>
-
-[^pa]: AMA, *2023 Prior Authorization Physician Survey*: 24 % of physicians report prior authorization led to a serious adverse event for a patient; PA decisions routinely take days to weeks. <https://www.ama-assn.org/system/files/prior-authorization-survey.pdf>
-
-[^bad-debt]: American Hospital Association, *2024 Cost of Caring* report: U.S. hospitals provided **$130 B+** in uncompensated care in 2022; nationwide bad‑debt write‑offs sit in the tens of billions annually. <https://www.aha.org/costsofcaring>
-
-</sub>
+<ol>
+<li id="fn-cms-nhe">CMS, <i>National Health Expenditure Accounts — Historical (NHE 2023)</i>: total U.S. health spending of <b>$4.9 trillion</b> in 2023. <a href="https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical">cms.gov/national-health-expenditure-data/historical</a></li>
+<li id="fn-cms-share">CMS, <i>NHE Fact Sheet</i>: U.S. health spending accounted for <b>17.6 % of GDP</b> in 2023. <a href="https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet">cms.gov/nhe-fact-sheet</a></li>
+<li id="fn-ocr-portal">U.S. Department of Health &amp; Human Services, Office for Civil Rights, <i>Breach Portal</i> — cumulative breaches reported under HITECH since 2009; cumulative individuals affected exceeds <b>725 million</b>. <a href="https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf">ocrportal.hhs.gov/breach_report</a></li>
+<li id="fn-admin">Himmelstein D.U., Campbell T., Woolhandler S., <i>Health Care Administrative Costs in the United States and Canada, 2017</i>, <b>Annals of Internal Medicine</b> 172(2): 134–142 (2020) — U.S. administrative costs estimated at <b>~25–34 %</b> of total health spending. <a href="https://www.acpjournals.org/doi/10.7326/M19-2818">doi.org/10.7326/M19-2818</a></li>
+<li id="fn-ibm-2024">IBM Security &amp; Ponemon Institute, <i>Cost of a Data Breach Report 2024</i>: average healthcare breach cost <b>USD 9.77 M</b>, the highest of any sector for the <b>14th consecutive year</b>. <a href="https://www.ibm.com/reports/data-breach">ibm.com/reports/data-breach</a></li>
+<li id="fn-ibm-perrec">IBM, <i>Cost of a Data Breach Report 2024</i>: per‑record cost in healthcare materially above the cross‑industry mean (~$165 / record). <a href="https://www.ibm.com/reports/data-breach">ibm.com/reports/data-breach</a></li>
+<li id="fn-ibm-mttc">IBM, <i>Cost of a Data Breach Report 2024</i>: mean time to identify and contain a healthcare breach = <b>277 days</b>. <a href="https://www.ibm.com/reports/data-breach">ibm.com/reports/data-breach</a></li>
+<li id="fn-ch-190m">UnitedHealth Group / Change Healthcare, statement on the February 2024 cyberattack: estimated <b>~190 million individuals</b> affected (updated 2025‑01‑24). <a href="https://www.unitedhealthgroup.com/newsroom/2024/2024-02-22-uhg-statement-on-change-healthcare-cyberresponse.html">unitedhealthgroup.com/change-healthcare-cyberresponse</a></li>
+<li id="fn-uhg-cost">UnitedHealth Group, <i>Q3 2024 earnings disclosure</i>: cumulative direct response costs from the Change Healthcare cyberattack reported at <b>~$2.87 B</b> (response + business‑disruption costs). <a href="https://www.unitedhealthgroup.com/newsroom/posts/2024-10-15-uhg-reports-3q-results.html">unitedhealthgroup.com/3q-2024-results</a></li>
+<li id="fn-ocr-2023">HHS OCR Breach Portal, calendar year 2023: <b>725+</b> reported breaches affecting 500 or more individuals (≈ 2 per day). <a href="https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf">ocrportal.hhs.gov/breach_report</a></li>
+<li id="fn-cms-shares">CMS, <i>NHE 2023 — distribution of national health spending by type of service</i>: hospital + professional services ≈ <b>51 %</b>, prescription drugs &amp; durable medical equipment ≈ <b>16 %</b>, other personal health care ≈ <b>8 %</b>, government administration + net cost of insurance + program admin ≈ <b>~25 %</b>. Pie‑chart values rounded for visual clarity. <a href="https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/nhe-fact-sheet">cms.gov/nhe-fact-sheet</a></li>
+<li id="fn-pa">AMA, <i>2023 Prior Authorization Physician Survey</i>: 24 % of physicians report prior authorization led to a serious adverse event for a patient; PA decisions routinely take days to weeks. <a href="https://www.ama-assn.org/system/files/prior-authorization-survey.pdf">ama-assn.org/prior-authorization-survey</a></li>
+<li id="fn-bad-debt">American Hospital Association, <i>2024 Cost of Caring</i>: U.S. hospitals provided <b>$130 B+</b> in uncompensated care in 2022; nationwide bad‑debt write‑offs sit in the tens of billions annually. <a href="https://www.aha.org/costsofcaring">aha.org/costsofcaring</a></li>
+</ol>
