@@ -319,7 +319,10 @@ If you've spent a career being the person who actually had to make healthcare in
 
 ---
 
-## Sources
+<details>
+<summary><b>Sources &amp; citations</b></summary>
+
+<br/>
 
 <ol>
 <li id="fn-cms-nhe">CMS, <i>National Health Expenditure Accounts — Historical (NHE 2023)</i>: total U.S. health spending of <b>$4.9 trillion</b> in 2023. <a href="https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical">cms.gov/national-health-expenditure-data/historical</a></li>
@@ -336,3 +339,5 @@ If you've spent a career being the person who actually had to make healthcare in
 <li id="fn-pa">AMA, <i>2023 Prior Authorization Physician Survey</i>: 24 % of physicians report prior authorization led to a serious adverse event for a patient; PA decisions routinely take days to weeks. <a href="https://www.ama-assn.org/system/files/prior-authorization-survey.pdf">ama-assn.org/prior-authorization-survey</a></li>
 <li id="fn-bad-debt">American Hospital Association, <i>2024 Cost of Caring</i>: U.S. hospitals provided <b>$130 B+</b> in uncompensated care in 2022; nationwide bad‑debt write‑offs sit in the tens of billions annually. <a href="https://www.aha.org/costsofcaring">aha.org/costsofcaring</a></li>
 </ol>
+
+</details>
