@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/pangaea-wordmark-light.svg">
-  <img alt="Pangaea Healthcare" src="profile/assets/pangaea-wordmark-dark.svg" width="460">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pangaea-wordmark-light.svg">
+  <img alt="Pangaea Healthcare" src="assets/pangaea-wordmark-dark.svg" width="460">
 </picture>
 
 <br/>
@@ -200,14 +200,14 @@ If you've spent a career being the person who actually had to make healthcare in
 
 <br/>
 
-[![Careers](https://img.shields.io/badge/Careers-pangaea.health-0B3D91?style=for-the-badge&logo=mailgun&logoColor=white)](mailto:careers@pangaeahealthcare.com)
-[![Press](https://img.shields.io/badge/Press-press@pangaea.health-1F2937?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:press@pangaeahealthcare.com)
+[![Careers](https://img.shields.io/badge/Careers-support%40pangaeahealthcare.com-0B3D91?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:support@pangaeahealthcare.com)
+[![Contact](https://img.shields.io/badge/Contact-support%40pangaeahealthcare.com-1F2937?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:support@pangaeahealthcare.com)
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/assets/icon-glass.svg">
-  <img alt="Pangaea" src="profile/assets/icon-glass.svg" width="64">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icon-glass.svg">
+  <img alt="Pangaea" src="assets/icon-glass.svg" width="64">
 </picture>
 
 <br/>
