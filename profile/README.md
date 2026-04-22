@@ -299,8 +299,8 @@ If you've spent a career being the person who actually had to make healthcare in
 
 <br/>
 
-[![Careers](https://img.shields.io/badge/CAREERS-support%40pangaeahealthcare.com-0B3D91?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000000)](mailto:hiring@pangaeahealthcare.com)
-[![Contact](https://img.shields.io/badge/CONTACT-support%40pangaeahealthcare.com-1F2937?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000)](mailto:hiring@pangaeahealthcare.com)
+[![Careers](https://img.shields.io/badge/CAREERS-hiring%40pangaeahealthcare.com-0B3D91?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000000)](mailto:hiring@pangaeahealthcare.com)
+[![Contact](https://img.shields.io/badge/CONTACT-hiring%40pangaeahealthcare.com-1F2937?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000)](mailto:hiring@pangaeahealthcare.com)
 
 <br/>
 <br/>
